@@ -1,0 +1,31 @@
+.homepage{
+  background-color: #161616;
+  color:white;
+  width:100%;
+  height: 730px;
+}
+h1{
+  padding-top: 15%;
+  padding-bottom: 2%;
+  color: #39FF14;
+  font-family: 'Pacifico',serif;
+  text-align: center;
+}
+.btn{
+  padding-bottom: 20%;
+}
+p{
+  color:  #39FF14;
+  font-family: 'Pacifico',serif;
+  font-size: 1.5rem;
+  padding-top: 5%;
+}
+@media (max-width:600px){
+h1{
+  padding-bottom: 10%;
+}
+p{
+  padding-top: 10%;
+  font-size: 1.2rem;
+}
+}
